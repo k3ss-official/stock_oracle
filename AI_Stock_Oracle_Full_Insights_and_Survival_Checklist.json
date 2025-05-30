@@ -1,0 +1,74 @@
+{
+    "title": "AI Stock Oracle \u2014 Full Insights + Survival Checklist",
+    "sections": [
+        {
+            "section": "Foundational Concepts (Beyond Basic Spec)",
+            "content": [
+                "Big 3 Synchronization: AI, Power, Water sectors expanding together triggers UTR companies.",
+                "Not tracking sectors separately, but their ripple effects.",
+                "Target: Pick up activity from obscure, secondary and tertiary suppliers."
+            ]
+        },
+        {
+            "section": "True Role of UTR Companies",
+            "content": [
+                "UTR = predictive early signal.",
+                "Cafeterias, badge printers, fiber techs, small suppliers.",
+                "Pick them before public awareness reaches them.",
+                "Institutional investors will be late \u2014 you will be early."
+            ]
+        },
+        {
+            "section": "Strategic Advantage Inside Your Model",
+            "content": [
+                "Pearson r > 0.8 = solid non-noise correlation.",
+                "Brand visibility filter keeps giants (e.g., Cisco, Dell) OUT.",
+                "Your alpha comes from matching obscurity + growth."
+            ]
+        },
+        {
+            "section": "Data Challenges to Expect (And Outsmart)",
+            "content": [
+                "Procurement data = messy.",
+                "Social signals = noisy.",
+                "Duplicate company names across regions.",
+                "You\u2019ll need retries, scraping resilience, fuzzy entity matching."
+            ]
+        },
+        {
+            "section": "Future Upgrade Path",
+            "content": [
+                "Knowledge Graphs (Neo4j, DuckDB).",
+                "Active Learning: reinforce manual tagging feedback.",
+                "Real-time streams: push notifications and early signal dashboards."
+            ]
+        },
+        {
+            "section": "Subscriber Psychology (Critical for Success)",
+            "content": [
+                "VCs, funds care about clean provenance \u2014 not flashy UIs.",
+                "Show audit trails: Permits \u2192 Reddit chatter \u2192 Hiring spikes \u2192 Contract leaks.",
+                "Documentation builds confidence. Confidence builds revenue."
+            ]
+        },
+        {
+            "section": "Mission Critical: Never Box Yourself In",
+            "content": [
+                "Promise 'motion detection', not 'sector coverage'.",
+                "Market as 'supplier signal detection', not 'stock picking'.",
+                "Leave it broad enough to adapt as infrastructure needs change."
+            ]
+        },
+        {
+            "section": "Survival Checklist (DO NOT SKIP)",
+            "content": [
+                "Never promise sector-wide expertise. Only pattern detection.",
+                "Always show evidence for UTR detection: timeline the growth.",
+                "Never get locked to a vendor (NewsAPI, Reddit APIs \u2014 always have backups).",
+                "Save all raw signal data \u2014 you\u2019ll need it to train better extractors.",
+                "When doubt creeps in, remember: dust rises before earthquakes.",
+                "The small contractors will always hint first. Always."
+            ]
+        }
+    ]
+}
