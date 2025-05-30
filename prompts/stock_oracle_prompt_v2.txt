@@ -1,0 +1,52 @@
+#Stock-Oracle-Prompt-1
+
+Here’s a comprehensive prompt to gather detailed information on smaller ancillary companies that supply power infrastructure to the AI industry in the USA, focusing on their stock performance and growth in the last six months:
+
+Research Request: Identifying Ancillary Companies Supplying all items to Power companies needed to expand their Infrastructure to meet the power needs of the big 4 AI Data Centers in the USA
+
+I am conducting a detailed study on smaller ancillary companies that supply critical components and infrastructure items to power companies supporting AI data centers in the USA. My focus is on companies whose stock prices are in the range of $1-$20 and have shown significant growth over the past six months, mirroring the growth of the AI industry. The goal is to identify 20 companies that are essential to the infrastructure needs of power companies, particularly those powering the big 4 AI firms (OpenAI, Google, Microsoft, and Anthropic).
+
+Key Information to Collect:
+
+	1.	Company Names and Ticker Symbols: Identify the smaller companies (with share prices in the $1-$20 range) involved in supplying items to enable power infrastructure companies expand to delivery the rapidly growing power needs to AI data centers either publicly or privately traded. Also take into account news of companies on the verge of trading on the stock market due to their contracts and successes.
+	2.	Industry and Role: Describe the industry each company operates in and its specific role in providing data center power infrastructure items. 
+	3.	Current Share Prices: Provide the latest share prices of these companies.
+	4.	Growth Trends: Analyze the stock performance and growth trends of these companies over the last six months.
+	5.	Notable Contracts and Clients: Highlight any significant contracts or partnerships with major power companies or AI firms.
+	6.	Recent News and Developments: Summarize recent news, developments, or financial reports that indicate growth or strategic importance in the AI data center market.
+
+Specific Points to Address:
+
+	•	Companies specializing in power management, energy storage, thermal management, and backup power solutions.
+	•	Providers of high-density power solutions, intelligent PDUs, and advanced cooling systems.
+	•	Companies offering innovative technologies for data center and power infrastructure’s efficiency and reliability.
+•	Companies offering ancillary items needed for expansion including steel frames, racks, wiring, windows, building materials, doors, tables, chairs and such
+
+
+Example Companies to Consider (if applicable):
+
+	•	Vertiv Holdings Co. (VRT)
+	•	Generac Holdings Inc. (GNRC)
+	•	Schneider Electric (SBGSY)
+	•	Eaton Corporation (ETN)
+	•	Tripp Lite
+	•	Raritan
+	•	Server Technology
+	•	CPS Technologies Corporation (CPSH)
+	•	Pioneer Power Solutions, Inc. (PPSI)
+	•	Vicor Corporation (VICR)
+	•	PowerSecure
+	•	Generex Biotechnology Corporation (GNBT)
+	•	Plug Power Inc. (PLUG)
+	•	FuelCell Energy, Inc. (FCEL)
+	•	Enphase Energy, Inc. (ENPH)
+	•	Bloom Energy Corporation (BE)
+	•	CleanSpark, Inc. (CLSK)
+	•	Nuvve Holding Corp. (NVVE)
+	•	Cree, Inc. (CREE)
+	•	Aqua Metals, Inc. (AQMS)
+
+Please provide a thorough analysis based on the latest available data, incorporating insights from multiple reputable sources.
+
+Use this prompt to gather comprehensive information on the relevant companies, ensuring a detailed and focused analysis of their roles in the power infrastructure for AI data centers.
+	◦	
