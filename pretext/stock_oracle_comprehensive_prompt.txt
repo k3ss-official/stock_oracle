@@ -1,0 +1,62 @@
+# Stock Oracle Comprehensive Prompt
+
+## Purpose
+This prompt is designed to gather comprehensive information on companies involved in the infrastructure supporting AI data centers, particularly focusing on the "picks and shovels" of the AI industry - the smaller companies providing essential components, services, and materials.
+
+## Target Companies
+Focus on smaller companies (with share prices in the $1-$20 range) involved in supplying items to enable power infrastructure companies to expand and deliver the rapidly growing power needs to AI data centers. Include both publicly and privately traded companies, as well as those on the verge of trading due to their contracts and successes.
+
+## Key Information to Collect
+
+1. **Company Names and Ticker Symbols**: Identify smaller companies involved in supplying items for power infrastructure expansion for AI data centers.
+
+2. **Industry and Role**: Describe the industry each company operates in and its specific role in providing data center power infrastructure items.
+
+3. **Current Share Prices**: Provide the latest share prices of these companies.
+
+4. **Growth Trends**: Analyze the stock performance and growth trends of these companies over the last six months.
+
+5. **Notable Contracts and Clients**: Highlight any significant contracts or partnerships with major power companies or AI firms.
+
+6. **Recent News and Developments**: Summarize recent news, developments, or financial reports that indicate growth or strategic importance in the AI data center market.
+
+## Specific Focus Areas
+
+- Companies specializing in power management, energy storage, thermal management, and backup power solutions
+- Providers of high-density power solutions, intelligent PDUs, and advanced cooling systems
+- Companies offering innovative technologies for data center and power infrastructure efficiency and reliability
+- Companies offering ancillary items needed for expansion including steel frames, racks, wiring, windows, building materials, doors, tables, chairs and similar components
+
+## Example Companies to Consider
+
+The following list provides examples of the types of companies to research (not exhaustive):
+
+1. **Vertiv Holdings Co. (VRT)**
+   - Industry: Data Center Infrastructure
+   - Role: Provides power, cooling, and IT infrastructure solutions
+   - Growth: Strong growth due to increased demand for data center infrastructure
+
+2. **Generac Holdings Inc. (GNRC)**
+   - Industry: Power Generation
+   - Role: Provides backup power systems
+   - Growth: High demand for reliable power solutions
+
+3. **Schneider Electric (SBGSY)**
+   - Industry: Energy Management
+   - Role: Supplies power and cooling solutions for data centers
+   - Growth: Steady growth in data center power management solutions
+
+4. **Eaton Corporation (ETN)**
+   - Industry: Power Management
+   - Role: Provides power quality, distribution, and control solutions
+   - Growth: Increased demand for power management in data centers
+
+5. **CPS Technologies Corporation (CPSH)**
+   - Industry: Materials Science
+   - Role: Manufactures metal-matrix composite components for power electronics
+   - Growth: Growing demand for advanced materials in power infrastructure
+
+[Additional companies and sectors to research are listed in the original prompt]
+
+## Deliverable Format
+Compile findings into a comprehensive report detailing each company's profile, growth potential, and relevance to the AI infrastructure ecosystem.

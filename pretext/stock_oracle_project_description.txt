@@ -1,0 +1,45 @@
+# Stock Oracle Project Description
+
+## Overview
+Stock Oracle is an AI-powered financial analysis platform designed to identify investment opportunities in companies that support the infrastructure of the rapidly growing AI industry. Rather than focusing on the major AI companies themselves, Stock Oracle targets the "picks and shovels" - the smaller, often overlooked companies that provide essential components, services, and materials for AI infrastructure expansion.
+
+## Core Concept
+As AI continues its exponential growth trajectory, three interconnected industries will experience parallel expansion:
+1. AI computing infrastructure
+2. Power infrastructure to support AI computing
+3. Water infrastructure for cooling systems
+
+Stock Oracle aims to identify companies in these ecosystems before they become widely recognized by the market, particularly focusing on smaller companies (share prices $1-$20) that provide:
+- Building materials and components
+- Power management solutions
+- Cooling and water management systems
+- Network infrastructure
+- Security systems
+- And other essential elements for AI data center construction and operation
+
+## Data Collection Approach
+Stock Oracle will gather information from diverse sources including:
+- APIs and RSS feeds
+- Local news and industry publications
+- Social media (X, Reddit)
+- Contract tenders and RFPs
+- Employment trends and job postings
+- Industry rumors and "word on the street"
+
+## Analysis Methodology
+The platform will:
+1. Identify potential target companies through comprehensive data collection
+2. Validate companies based on news, contracts, and growth patterns
+3. Compare company growth curves against the three core industries
+4. Flag promising stocks for further analysis and investment consideration
+
+## Revenue Model
+Two primary revenue streams are envisioned:
+1. Subscription service for public access to "AI Stock Oracle" recommendations
+2. Paid API access to the data (similar to LexisNexis for AI stock trading data)
+
+## Technology Stack
+The project will leverage cutting-edge AI technologies, with Manus AI proposed as the core intelligence platform to power the analysis and recommendation engine.
+
+## Target Outcome
+Stock Oracle aims to provide investors with early access to high-potential stocks in the AI infrastructure ecosystem before they experience significant market recognition and price appreciation.

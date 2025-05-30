@@ -1,0 +1,69 @@
+# Stock Oracle Bible
+
+## Introduction
+This document serves as the comprehensive guide to the Stock Oracle project, consolidating key information from multiple source documents into a single authoritative reference.
+
+## Project Vision
+Stock Oracle is designed to identify investment opportunities in the "picks and shovels" companies supporting the AI industry's explosive growth. While most investors focus on major AI companies, Stock Oracle targets the overlooked infrastructure providers - the companies supplying essential components, materials, and services needed for AI data center expansion.
+
+## Market Opportunity
+As AI computing demands grow exponentially, three interconnected industries will experience parallel growth:
+1. AI computing infrastructure
+2. Power infrastructure to support AI computing
+3. Water infrastructure for cooling systems
+
+This creates a massive market opportunity for companies providing:
+- Building materials and components
+- Power management and distribution systems
+- Cooling and water management solutions
+- Network and fiber optic infrastructure
+- Security systems and access control
+- Racks, frames, and physical infrastructure
+- And numerous other essential elements
+
+## Data Collection Strategy
+Stock Oracle will gather information from diverse sources:
+- Industry APIs and RSS feeds
+- Local and industry news publications
+- Social media platforms (X, Reddit, etc.)
+- Contract tenders and RFPs
+- Employment trends and job postings
+- Industry rumors and "word on the street"
+
+## Analysis Methodology
+The platform will:
+1. Identify potential target companies through comprehensive data collection
+2. Validate companies based on news, contracts, and growth patterns
+3. Compare company growth curves against the three core industries
+4. Flag promising stocks for further analysis and investment consideration
+
+## Target Companies
+Focus on smaller companies (share prices $1-$20) in sectors including:
+- Power management and distribution
+- Energy storage solutions
+- Thermal management and cooling
+- Building materials and construction
+- Network infrastructure and fiber optics
+- Security systems and access control
+- Water management and conservation
+
+## Revenue Model
+Two primary revenue streams:
+1. Subscription service for public access to "AI Stock Oracle" recommendations
+2. Paid API access to the data (similar to LexisNexis for AI stock trading data)
+
+## Technology Stack
+The project will leverage cutting-edge AI technologies, with Manus AI proposed as the core intelligence platform to power the analysis and recommendation engine.
+
+## Implementation Roadmap
+1. Initial data collection framework development
+2. AI analysis engine implementation
+3. MVP with limited company coverage
+4. Expanded data sources and company coverage
+5. Subscription and API service launch
+
+## Success Metrics
+- Accuracy of stock performance predictions
+- Coverage of relevant companies
+- Subscription growth and retention
+- API usage and customer satisfaction

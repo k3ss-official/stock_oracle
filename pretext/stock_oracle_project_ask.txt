@@ -1,0 +1,52 @@
+# Stock Oracle Project Ask
+
+## Project Requirements
+
+The Stock Oracle project aims to create an AI-powered platform that identifies investment opportunities in companies supporting the AI industry infrastructure. The system will focus on the "picks and shovels" companies - those providing essential components, materials, and services for AI data center expansion.
+
+## Core Functionality Requirements
+
+1. **Data Collection System**
+   - Gather information from diverse sources (APIs, news, social media, job postings, etc.)
+   - Monitor contract tenders, RFPs, and industry announcements
+   - Track employment trends in relevant companies
+
+2. **Analysis Engine**
+   - Process collected data to identify potential target companies
+   - Compare company growth curves against AI, power, and water industries
+   - Flag promising stocks based on correlation with industry growth
+
+3. **User Interface**
+   - Provide clear, actionable investment recommendations
+   - Display supporting data and analysis for each recommendation
+   - Allow filtering and sorting of recommendations
+
+4. **API Service**
+   - Offer programmatic access to Stock Oracle data and recommendations
+   - Support integration with other financial platforms and services
+
+## Target Companies
+
+Focus on smaller companies (share prices $1-$20) in sectors including:
+- Power management and distribution
+- Energy storage solutions
+- Thermal management and cooling
+- Building materials and construction
+- Network infrastructure and fiber optics
+- Security systems and access control
+- Water management and conservation
+
+## Deliverables
+
+1. Data collection framework
+2. AI analysis engine
+3. Web-based user interface
+4. API documentation and access
+5. Subscription management system
+
+## Success Criteria
+
+- Accuracy of stock performance predictions
+- Coverage of relevant companies
+- User subscription growth and retention
+- API usage metrics
